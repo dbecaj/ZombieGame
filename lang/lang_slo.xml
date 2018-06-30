@@ -1,0 +1,29 @@
+<lang>
+    <string name="play">IGRAJ</string>
+    <string name="create">USTVARI</string>
+    <string name="multiplayer">VEC IGRALCOV</string>
+    <string name="quit">IZHOD</string>
+    <string name="scientists">Znanstveniki</string>
+    <string name="zombies">Zombiji</string>
+    <string name="level_name">Ime prostora</string>
+    <string name="level_width">Sirina prostora</string>
+    <string name="level_height">Visina prostora</string>
+    <string name="blocks">KOCKE</string>
+    <string name="entities">BITJA</string>
+    <string name="main_menu">GLAVNI MENU</string>
+    <string name="save">SHRANI</string>
+    <string name="add_server">DODAJ</string>
+    <string name="refresh">OSVEZI</string>
+    <string name="connecting">Povezujem</string>
+    <string name="add">DODAJ</string>
+    <string name="cancel">PREKLICI</string>
+    <string name="insert_player_name">Vpisi ime igralca</string>
+    <string name="has_been_saved">je bil shranjen</string>
+	<string name="connect">POVEZI</string>
+	<string name="delete">ZBRISI</string>
+	<string name="load">NALOZI</string>
+	<string name="you_won">ZMAGAL SI</string>
+	<string name="you_lose">ZGUBIL SI</string>
+	<string name="put_down_player_tile">Poloziti moras igralcevo ploscico</string>
+	<string name="level_size_error">Igralna povrsina mora imeti vsaj 4x4 dimenzije</string>
+</lang>

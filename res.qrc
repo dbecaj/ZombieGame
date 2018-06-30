@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>textures/wall_tile.png</file>
+        <file>textures/computor_tile.png</file>
+        <file>textures/box_tile.png</file>
+        <file>textures/zombie_sprite.png</file>
+        <file>textures/scientist_man_sprite.png</file>
+        <file>textures/scientist_woman_sprite.png</file>
+        <file>textures/player_sprite.png</file>
+        <file>textures/bullet.png</file>
+        <file>textures/tile.png</file>
+        <file>textures/pause_menu_background.png</file>
+        <file>textures/back_button_active.png</file>
+        <file>textures/back_button_idle.png</file>
+        <file>textures/add_server_background.png</file>
+        <file>textures/menu_button_active.png</file>
+        <file>textures/menu_button_idle.png</file>
+        <file>textures/multiplayer_page_button_active.png</file>
+        <file>textures/multiplayer_page_button_idle.png</file>
+        <file>textures/add_server_button_active.png</file>
+        <file>textures/add_server_button_idle.png</file>
+        <file>textures/pause_button_active.png</file>
+        <file>textures/pause_button_idle.png</file>
+        <file>textures/creator_tab_button_active.png</file>
+        <file>textures/creator_tab_button_idle.png</file>
+        <file>textures/player_tile.png</file>
+        <file>textures/scientist_tile.png</file>
+        <file>textures/zombie_tile.png</file>
+        <file>textures/background.png</file>
+        <file>textures/remove.png</file>
+        <file>textures/list_frame.png</file>
+        <file>textures/bookshelf_tile.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>fonts/Pixeled.ttf</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music/80s Things.mp3</file>
+        <file>music/Defense Line.mp3</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>sound/shot.wav</file>
+        <file>sound/zombie_attacked.wav</file>
+        <file>sound/zombie_moan.wav</file>
+        <file>sound/shot2.mp3</file>
+    </qresource>
+</RCC>

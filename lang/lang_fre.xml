@@ -1,0 +1,29 @@
+<lang>
+    <string name="play">JOUER</string>
+    <string name="create">CRÉER</string>
+    <string name="multiplayer">MULTIJOUEUR</string>
+    <string name="quit">QUITTER</string>
+    <string name="scientists">Scientifiques</string>
+    <string name="zombies">Zombies</string>
+    <string name="level_name">Nom de niveau</string>
+    <string name="level_width">Niveau largeur</string>
+    <string name="level_height">Niveau de hauteur</string>
+    <string name="blocks">BLOCS</string>
+    <string name="entities">ENTITÉS</string>
+    <string name="main_menu">MENU PRINCIPAL</string>
+    <string name="save">ENREGISTRER</string>
+    <string name="add_server">AJOUTER</string>
+    <string name="refresh">RAFRAÎCHIR</string>
+    <string name="connecting">De liaison</string>
+    <string name="add">AJOUTER</string>
+    <string name="cancel">ANNULER</string>
+    <string name="insert_player_name">Insérer le nom du joueur</string>
+    <string name="has_been_saved">a été enregistré</string>
+	<string name="connect">RELIER</string>
+	<string name="delete">EFFACER</string>
+	<string name="load">CHARGE</string>
+	<string name="you_won">VOUS GAGNEZ</string>
+	<string name="you_lose">TU AS PERDU</string>
+	<string name="put_down_player_tile">Vous devez déposer une tuile de joueur</string>
+	<string name="level_size_error">Niveau doit avoir au moins 4x4 dimensions</string>
+</lang>

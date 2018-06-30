@@ -1,0 +1,29 @@
+<lang>
+    <string name="play">PLAY</string>
+    <string name="create">CREATE</string>
+    <string name="multiplayer">MULTIPLAYER</string>
+    <string name="quit">QUIT</string>
+    <string name="scientists">Scientists</string>
+    <string name="zombies">Zombies</string>
+    <string name="level_name">Level name</string>
+    <string name="level_width">Level width</string>
+    <string name="level_height">Level height</string>
+    <string name="blocks">BLOCKS</string>
+    <string name="entities">ENTITIES</string>
+    <string name="main_menu">MAIN MENU</string>
+    <string name="save">SAVE</string>
+    <string name="add_server">ADD SERVER</string>
+    <string name="refresh">REFRESH</string>
+    <string name="connecting">Connecting</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="insert_player_name">Insert player name</string>
+    <string name="has_been_saved">has been saved</string>
+	<string name="connect">CONNECT</string>
+	<string name="delete">DELETE</string>
+	<string name="load">LOAD</string>
+	<string name="you_won">YOU WON</string>
+	<string name="you_lose">YOU LOSE</string>
+	<string name="put_down_player_tile">You have to put down a player tile</string>
+	<string name="level_size_error">Level has to have at least 4x4 dimensions</string>
+</lang>
